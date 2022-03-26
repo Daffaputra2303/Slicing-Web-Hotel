@@ -13,3 +13,4 @@ eye.addEventListener('click',()=> {
 
     }
 })
+// bagian ini kak aku masih bingung mau set attribut ke text tapi jadi ke default
